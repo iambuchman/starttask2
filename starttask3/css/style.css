@@ -1,0 +1,146 @@
+body 
+{
+font-family: "Palatino Linotype";
+margin: 0px;
+padding: 0px;
+font-size: 0px;
+}
+
+.main_bucket
+{
+	background-color: #DECC76;
+	height:220px;
+	text-align: center;
+	padding-top: 40px;
+	color: white;
+
+}
+.meetbuchi_bucket
+{
+	background-color: #938D72;
+	margin-left: 0px;
+	padding-top:20px;
+	padding-bottom: 10px;
+}
+.meetbuchi_bucket .text1
+{
+	width: 800px;
+	margin-left: 50px;
+	padding-top: 0px;
+	color: #CDC5A9;
+	font-size: 16px;
+
+}
+.meetbuchi_bucket .text2
+{
+	width: 800px;
+	margin-left: 50px;
+	padding-top: 10px;
+	color: white;
+	font-size:16px;
+}
+.experience_bucket
+{
+    background-color: #FBF8EA;
+	margin-left: 0px;
+	padding-top: 10px;
+}
+.experience_bucket .text1
+{
+	margin-left: 50px;
+	margin: 50px;
+	padding-left: 0px;
+	padding-top: 0px;
+	color:black;
+}
+.why_me_bucket .text1
+{
+	padding-bottom: 0px;
+	margin-left: 0px;
+}
+
+.why_me_bucket .text2
+{
+	list-style-type: disc;
+	margin-left: 50px;
+	margin: 50px;
+	padding-left: 180px;
+	padding-top: 0px;
+	padding-bottom: 20px;
+	color:grey;
+	font-size: 16px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+a
+{
+text-decoration: none;
+}
+.Reach_out_bucket
+{
+	background-color: #938D72;
+	margin-left: 0px;
+	padding-top: -200px;
+	padding-bottom: 10px;
+	float: left;
+	display: inline-block;
+	width: 100%;
+}
+.Reach_out_bucket .text4
+{
+	width: 800px;
+	margin-left: 5px;
+	padding-top: 20px;
+	color:black;
+}
+.Reach_out_bucket .text5
+{
+	margin-left: 50px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-size:16px;
+    padding-left: 180px;
+	width: 800px;
+}
+.Reach_out_bucket .text6
+{
+	padding-top: 15px;
+   text-align: center;
+	color:#CDC5A4;
+	font-size: 16px;
+}
+h1
+{
+	color:white;
+	font-size: 24px;
+}
+td
+{
+	text-align: left;
+	color:grey;
+	font-size: 16px;
+}
+table
+{
+	width: 1000px;
+	margin-left: 50px;
+}
+th
+{
+	text-align: left;
+	color:black;
+	font-size: 16px;
+	min-width: 150px;
+}
+h5
+{
+	color:black;
+	font-size: 16px;
+	padding-left: 50px;
+	margin: 0px;
+}
+
+img
+{
+border-radius: 50%;
+}
